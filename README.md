@@ -1,4 +1,4 @@
-# quiz
+# Quiz para aprendizado de conceitos em Dart e Flutter
 
 A new Flutter project.
 
